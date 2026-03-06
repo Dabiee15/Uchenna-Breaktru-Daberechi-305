@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My Assignment Manual
 
 This repository contains documentation files for my assignment.
@@ -9,3 +10,16 @@ This repository contains documentation files for my assignment.
 ## How to Use
 1. Open README.md first
 2. Follow instructions in manual_instructions.md
+=======
+# Assignment Manual
+
+This repository contains documentation files for my assignment submission.
+
+## Files
+- README.md: Project overview
+- manual_instructions.md: Step-by-step instructions
+
+## How to Use
+1. Open README.md first.
+2. Follow instructions in manual_instructions.md.
+>>>>>>> Add documentation files for manual submission
